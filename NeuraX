@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neurax - آینده میم‌ها</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #6c63ff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .cta-button {
+            background-color: #ff6347;
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            font-size: 18px;
+            cursor: pointer;
+        }
+        .cta-button:hover {
+            background-color: #e55347;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Neurax - میم کوین آینده</h1>
+        <p>با نماد NRX، کوینی برای افرادی که به دنبال لبخند و سود هستند!</p>
+    </header>
+
+    <div class="container">
+        <h2>درباره Neurax</h2>
+        <p>Neurax یک میم کوین با هدف ترکیب فناوری و سرگرمی است. اگر به دنبال سرمایه‌گذاری روی چیزی خنده‌دار اما با پتانسیل بالا هستید، NRX همان چیزی است که می‌خواهید!</p>
+        
+        <h2>چگونه خرید کنیم؟</h2>
+        <p>برای خرید Neurax (NRX) به <a href="#">این لینک</a> مراجعه کنید.</p>
+
+        <button class="cta-button">خرید Neurax</button>
+    </div>
+
+    <footer>
+        <p>ارتباط با ما: <a href="https://telegram.com" style="color: white;">تلگرام</a> | <a href="https://twitter.com" style="color: white;">توییتر</a></p>
+    </footer>
+</body>
+</html>
